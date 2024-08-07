@@ -1,2 +1,2 @@
-# Holiday_Plan_11-03-24
-Unlock the secrets of crafting a stunning Travel Landing Page from scratch!
+It is a project landing page of Travel.com made by using HTML ,CSS and JavaScript.
+It is completely responsive page having visual effects using JavaScript.
